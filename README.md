@@ -1,0 +1,1 @@
+# -vishalparmar6200-pixel-Quantum-Portfolio-Optimization-Using-QAOA
