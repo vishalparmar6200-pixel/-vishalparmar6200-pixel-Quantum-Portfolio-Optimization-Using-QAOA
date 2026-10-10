@@ -1,0 +1,9 @@
+# Python Dependencies for SmartStock AI Web Platform
+flask>=3.0.0
+yfinance>=0.2.30
+pennylane>=0.35.0
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+feedparser>=6.0.10
+plotly>=5.18.0
